@@ -31,5 +31,4 @@ include 'serviceinfo.php';
 			echo "</tr>";
 
 		}
-
 ?>
